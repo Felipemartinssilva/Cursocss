@@ -1,0 +1,22 @@
+*{margin: 0%;padding: 0%;box-sizing: border-box}
+#conteudo p{
+    opacity: 0.2;
+}
+#conteudo{
+background-color: red;
+
+ width: 300px;
+ padding: 20px;
+ box-shadow: 10px 10px 5px yellow;
+ /*box-shadow: 10px 10px 5px green;*/
+}
+
+#conteudo2{
+background-color: rgb(51, 98, 185);
+width: 300px;
+height: 10px;
+padding: 20px;
+overflow: hidden;
+
+/*box-shadow: 10px 10px 5px green;*/
+}
